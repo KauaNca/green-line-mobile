@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "green_line_mobile"
 include(":app")
+ 

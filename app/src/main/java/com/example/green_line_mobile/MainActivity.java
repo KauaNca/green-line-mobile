@@ -25,6 +25,9 @@ public class MainActivity extends AppCompatActivity {
         });
         WebView webView = findViewById(R.id.webview);
         WebSettings webSettings = webView.getSettings();
+        webSettings.setDomStorageEnabled(true);
+        webSettings.setAllowFileAccess(true);
+        webSettings.setAllowContentAccess(true);
         webSettings.setJavaScriptEnabled(true);
         webView.setWebViewClient(new WebViewClient());
         webView.loadUrl("https://kauanca.github.io/green_line_web/");
