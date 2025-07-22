@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "green_line_mobile"
+rootProject.name = "green-line-mobile"
 include(":app")
  
