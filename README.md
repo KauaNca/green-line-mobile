@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-FFA500?style=flat-square" alt="Status: Em Desenvolvimento"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Status-Concluído-00FF00?style=flat-square" alt="Status: Concluído"></a>
 </p>
 
 ---
@@ -39,18 +39,29 @@ Devido ao tempo limitado de desenvolvimento, foi utilizada a estratégia de inco
 
 ---
 
+## 🌐 Acesso às Versões
+- 🔗 [Versão Web](https://kauanca.github.io/green_line_web/)
+- ⬇️ [Download Web Desktop](https://www.mediafire.com/file/o9ajkpivr4assuc/Green_Line_Web.rar/file)
+- ⬇️ [APK Android](https://www.mediafire.com/file/dj0vkh8z5r89rah/Green_Line.apk/file)
+- ⬇️ [Download Desktop](https://www.mediafire.com/file/ty6vx48d1vafddi/GreenLineDesktop.rar/file)
+
+---
+
+## 💾 Versões  
+
+| Versão       | Descrição                          | Status            | Repositório       |  
+|--------------|-----------------------------------|-------------------|-------------------|  
+| 🌐 **Web**   | Frontend responsivo (HTML/CSS/JS) | 🟢 Funcional      | [Link](https://github.com/KauaNca/green_line_web)         |  
+| 📱 **Android**| App (JAVA)               | 🟢 Funcional | [Link](https://github.com/KauaNca/green_line_mobile)      |  
+| 🖥️ **Desktop**| Sistema administrativo (Java)     | 🟢 Funcional      | [Link](https://github.com/KauaNca/green_line_desktop)|  
+
+---
 ## 🧩 Funcionalidades
 
 - ✅ Acesso ao site via WebView
 - ✅ Interface adaptada para smartphones
 - ✅ Compatível com versões recentes do Android
 - ✅ Navegação fluida e responsiva
-
----
-
-<h1 align="center">🖥️ Prototipo Figma (Versão mobile)</h1>
-
-- [Link:](https://www.figma.com/design/zqz3oTlb1rMefWhi7QIEJB/WEB--Copy-?t=J0166Bdd1txpyvDJ-1)  
 
 ---
 
