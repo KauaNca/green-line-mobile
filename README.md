@@ -1,4 +1,3 @@
-@ -1,88 +0,0 @@
 <h1 align="center">📱 Green Line - E-commerce Sustentável (Versão Mobile)</h1>
 
 <p align="center">
